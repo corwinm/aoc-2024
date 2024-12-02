@@ -18,5 +18,5 @@ Example script to run the solution for day 1 part a:
 deno 01/a.ts
 ```
 
-Change the day (01 -> 02) to run another day and change to `b.ts` to run another day.
+Change the day (01 -> 02) to run another day and change to `b.ts` to run part B.
 
